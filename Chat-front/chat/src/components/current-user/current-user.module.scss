@@ -1,0 +1,19 @@
+.currentUser{
+    grid-area: current-user;
+    background: #ffe9c7;
+    padding: 20px;
+}
+
+.userName{
+    font-size: 22px;
+    font-weight: 600;
+    
+}
+
+.typing{
+    margin-top: 10px;
+}
+
+.typingHidden {
+    display: none;
+}

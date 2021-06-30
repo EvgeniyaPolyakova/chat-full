@@ -1,0 +1,18 @@
+.header{
+    grid-area: header;
+    display: flex;
+    align-items: center;
+}
+
+.list {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    justify-content: space-evenly;
+}
+
+.nav{
+    width: 100%;
+}
